@@ -7,7 +7,11 @@ module.exports = {
     fontFamily: {
       sans: ['Outfit', 'sans-serif']
     },
-    extend: {},
+    extend: {
+      fontSize: {
+        base: '0.9375rem'
+      },
+    },
   },
   plugins: [],
 }
