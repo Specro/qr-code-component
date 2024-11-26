@@ -13,6 +13,9 @@ module.exports = {
         'slate-500': '#68778d',
         'slate-300': '#d5e1ef'
       },
+      boxShadow: {
+        'card': '0 25px 25px 0 rgba(0, 0, 0, 0.0477)'
+      },
       lineHeight: {
         tight: 1.2,
         snug: 1.4
